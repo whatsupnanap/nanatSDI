@@ -38,6 +38,7 @@ function myFunctionAdd(x,tasu,y){
 	}
 }
 
+//subtract
 function myFunctionSub(x,hiku,y){
 	if(symbol == "-") {
 		console.log(x - y);
