@@ -52,6 +52,7 @@ function myFunctionTim(x,kakeru,y){
 	}
 }
 
+//divided
 function myFunctionDev(x,waru,y){
 	if(symbol === "/") {
 		if(y === 0) {
