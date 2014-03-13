@@ -31,6 +31,7 @@ if(symbol === "/"){
 };
 
 //my functions
+//add
 function myFunctionAdd(x,tasu,y){
 	if(symbol == "+") {
 		console.log(x + y);
