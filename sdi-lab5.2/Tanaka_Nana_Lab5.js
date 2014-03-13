@@ -45,7 +45,7 @@ function myFunctionSub(x,hiku,y){
 	}	
 
 }
-
+//times
 function myFunctionTim(x,kakeru,y){
 	if(symbol == "*") {
 		console.log(x * y);
