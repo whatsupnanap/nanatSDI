@@ -50,6 +50,7 @@ var objConstructor = function(minionName,minionHair,minionLoves,minionEyes,minio
 	
 };
 
+//another function
 var minions = function(){
 	
 	for(var i = 0; i < jsonData.minions.length; i++){
