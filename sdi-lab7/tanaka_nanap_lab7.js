@@ -32,6 +32,8 @@ var jsonData = {
 	]
 };
 
+
+//functions
 var objConstructor = function(minionName,minionHair,minionLoves,minionEyes,minionHeight){
 	
 	
