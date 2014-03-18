@@ -52,7 +52,8 @@ var objConstructor = function(minionName,minionHair,minionLoves,minionEyes,minio
 
 //another function
 var minions = function(){
-	
+
+//for loop	
 	for(var i = 0; i < jsonData.minions.length; i++){
 		
 		var firstMinionObj = new objConstructor(jsonData.minions[i].Name, jsonData.minions[i].Hair, jsonData.minions[i].Loves, jsonData.minions[i].Eyes, jsonData.minions[i].Height);
