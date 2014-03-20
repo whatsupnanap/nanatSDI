@@ -10,7 +10,7 @@ var emailChecker = function (stringValue){
 	var dot = emailInput.lastIndexOf(".");
 	
 
-
+//if statement 
 	if ( at < 1 || dot < at + 2 || dot + 2 >= emailInput.length ) {
 		var falseOutput = "The " + emailInput + " can\'t be verified and validated...";
 		return falseOutput;
