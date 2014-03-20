@@ -1,6 +1,6 @@
 //alert("JavaScript works!");
 
-
+//variables
 var emailInput = prompt("Please enter your email");
 
 var emailChecker = function (stringValue){
