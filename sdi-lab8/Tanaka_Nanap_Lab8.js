@@ -37,7 +37,7 @@ var threeStringFunction = function(string, comma, slash){
 	return stringOut;
 };
 
-
+//variables
 var receivedEmail = emailChecker(emailInput);
 
 var newstrings = threeStringFunction("1,2,3,4,5", ",", "/");
