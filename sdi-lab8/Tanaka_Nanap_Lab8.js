@@ -20,7 +20,7 @@ var emailChecker = function (stringValue){
 	};
 };
 
-
+//another vaiables
 var threeStringFunction = function(string, comma, slash){
 	
 	var stringMod = string.split(comma);
