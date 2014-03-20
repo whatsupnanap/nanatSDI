@@ -33,7 +33,7 @@ var threeStringFunction = function(string, comma, slash){
 		stringOut = stringOut + stringMod[i] + slash;
 	
 	};
-	
+//return	
 	return stringOut;
 };
 
